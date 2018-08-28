@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-# <img src="assets/logo.svg" alt="class logo" class="logo"/> Advanced JavaScript syllabus
+# <img src="assets/Logo Grafkom A IF ITS.png" alt="class logo" class="logo"/> Silabus Grafika Komputer (kelas A)
 
 ***If you are a teacher or interested in the design of the course, see the [meta](https://github.com/advanced-js/syllabus/blob/gh-pages/meta.md) document.***
 
